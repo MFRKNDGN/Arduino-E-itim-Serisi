@@ -15,9 +15,9 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(led, HIGH); // Ledi yak
-  delay(100); // 1 saniye bekle
+  delay(100); // bekle
   digitalWrite(led, LOW); // Ledi söndür
-  delay(100); // 1 saniye bekle
+  delay(100); // bekle
 
   // Kodlar loop içinde olduğundan dolayı sürekli tekrarlanacaktır.
 
